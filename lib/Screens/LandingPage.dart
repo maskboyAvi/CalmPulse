@@ -47,3 +47,4 @@ class _LandingPageState extends State<LandingPage> {
     );
   }
 }
+// This page is landing page for the app

@@ -1,6 +1,6 @@
 # CalmPulse App 🌟
 
-CalmPulse is a mobile application developed with Flutter, dedicated to advancing the goal for Good Health and Well-being. 🚀 The app is meticulously designed to monitor and enhance mental health by tracking sleep levels, heart health, and stress levels, contributing to a healthier and more balanced lifestyle. We aim to address early-stage mental health challenges faced by individuals.
+CalmPulse is a mobile application developed with Flutter, dedicated to advancing the goal for Good Health and Well-being.The app is meticulously designed to monitor and enhance mental health by tracking sleep levels, heart health, and stress levels, contributing to a healthier and more balanced lifestyle. We aim to address early-stage mental health challenges faced by individuals.
 
 ## Try CalmPulse
 
@@ -46,12 +46,12 @@ Meet the incredible team behind CalmPulse:
 <table>
 	<tr>
 		<td align="center"><img src="https://i.imgur.com/QKfdOPT.png" width="120px" height="120px"><br /><sub><b>Aviral Katiyar</b></sub><br/><a href="https://github.com/maskboyAvi"></a></td>
-		<td align="center"><img src="https://avatars.githubusercontent.com/u/123597196?v=4" objectFit:"cover" width="120px" height="120px"><br /><sub><b>Kashish Garg</b></sub><br/><a href="https://github.com/Celebi07"></a></td>		
+		<td align="center"><img src="https://avatars.githubusercontent.com/u/123597196?v=4" objectFit:"cover" width="120px" height="120px"><br /><sub><b>Kashish Garg</b></sub><br/><a href="https://github.com/Celebi07"></a></td>
 	</tr>
 </table>
 
 ## About Us 
-We are students from IIIT Lucknow in our sophomore year, and this project has been a significant milestone for us in improving our concepts and overcoming hurdles.
+We are Computer Science students from IIIT Lucknow in our sophomore year, and this project has been a significant milestone for us in improving our concepts and overcoming hurdles.
 
 ## Installation ⚙️
 
