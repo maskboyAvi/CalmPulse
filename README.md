@@ -9,13 +9,13 @@ CalmPulse is a mobile application developed with Flutter, dedicated to advancing
 You can also clone the repository and run the project in your local environment by following installation instructions below.
 
 ## Glimpse 📱
-<img src="https://github.com/maskboyAvi/CalmPulse/assets/123640350/802515f6-1833-467d-8f7d-5bc1f9cf75d5" width="300px" height="600px" alt="Balance Beats Preview">
-<img src="https://github.com/maskboyAvi/CalmPulse/assets/123640350/faeeb9bd-acb0-4b85-bbd4-dca5d0a1d6fe" width="300px" height="600px" alt="Chatbot">
-<img src="https://github.com/maskboyAvi/CalmPulse/assets/123640350/cf85a67e-14a8-4544-8907-bbd7c48ca57a" width="300px" height="600px" alt="LearnPage">
+
+<img src="https://github.com/maskboyAvi/CalmPulse/assets/123640350/a5a114b8-8c4d-4196-9a60-60e73c5f5d1e" width="300px" height="600px" alt="Balance Beats Preview">
+<img src="https://github.com/maskboyAvi/CalmPulse/assets/123640350/fe2ef913-3337-4d93-af89-96306641ea52" width="300px" height="600px" alt="ChatBot">
 
 ## Demo Video
 
-https://github.com/maskboyAvi/CalmPulse/assets/123640350/bdb5e554-bdad-44a9-be71-285a7d14ef65
+https://github.com/maskboyAvi/CalmPulse/assets/123640350/5de99937-3ca8-4739-a98a-d9317decc7a4
 
 Check out complete demo at https://youtu.be/16vkz0aOjc0
 
@@ -46,7 +46,7 @@ Meet the incredible team behind CalmPulse:
 <table>
 	<tr>
 		<td align="center"><img src="https://i.imgur.com/QKfdOPT.png" width="120px" height="120px"><br /><sub><b>Aviral Katiyar</b></sub><br/><a href="https://github.com/maskboyAvi"></a></td>
-		<td align="center"><img src="https://github.com/shishiro26/github-actions/assets/113853868/5f430831-9fd1-4071-a68f-5dbb03933097" objectFit:"cover" width="120px" height="120px"><br /><sub><b>Charan</b></sub><br/><a href="https://github.com/maskboyAvi"></a></td>		
+		<td align="center"><img src="https://avatars.githubusercontent.com/u/123597196?v=4" objectFit:"cover" width="120px" height="120px"><br /><sub><b>Kashish Garg</b></sub><br/><a href="https://github.com/Celebi07"></a></td>		
 	</tr>
 </table>
 
